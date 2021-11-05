@@ -1,4 +1,4 @@
-# Prueba-T-cnica--ZINOBE
+# Prueba Tecnica - ZINOBE
 
 
 ## Objetivo
