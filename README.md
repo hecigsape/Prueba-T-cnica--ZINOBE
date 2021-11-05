@@ -38,7 +38,7 @@ python run.py
 ```
 ## Diseño de la solucion.
 
-![Component Design](Diseno.png.png)
+![Component Design](Diseno.png)
 
 
 
